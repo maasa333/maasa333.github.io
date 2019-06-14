@@ -1,11 +1,11 @@
 # Site settings
 author: Maasa Kono
-title: 
+title: Reprogramming Myself
 header-img: img/home-bg.png
 email: konomaasa@gmail.com
 copyright_name: Maasa Kono
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Accounts of Delving into the Vast World of Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  maasa333
