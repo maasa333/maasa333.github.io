@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Improve Performance with `fetch()`!"
-date:       2020-02-24 05:33:04 +0000
+date:       2020-02-24 00:33:05 -0500
 permalink:  improve_performance_with_fetch
 ---
 
